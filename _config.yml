@@ -1,0 +1,22 @@
+# Site settings
+title: SuDIS@ZJU
+description: Sustainable Data Intelligence and Data Systems research group
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: SuDIS@ZJU
+user_description: Welcome to SuDIS, the Sustainable Data Intelligence and Data Systems research group at Zhejiang University! We are a dedicated team of researchers affiliated with the College of Computer Science and Technology and the Database and Data Intelligence Lab. Our group is focused on developing algorithms and systems related to data management and data analytics, with the aim of creating solutions that are Rapid, Reliable, Responsible, and Resilient.
+
+user_title: Rapid, Reliable, Responsible, and Resilient
+email: lihuan.cs@zju.edu.cn
+# twitter_username: lorem_ipsum
+#instagram_username: mauriciourraco7
+#facebook_username: mauricio.urraco
+#linkedin_username: murraco
+github_username:  SuDIS-ZJU
+# medium_username: lorem_ipsum
+# medium_url: lorem_ipsum.medium.com
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
